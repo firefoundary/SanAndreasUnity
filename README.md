@@ -39,6 +39,8 @@ Currently, the game doesn't have things like client-side prediction.
 
 If you want to run a dedicated server, take a look at these [instructions](https://github.com/GTA-ASM/SanAndreasUnity/wiki/Command-line).
 
+If you want to run through photon server , take a look here [instructions](https://insights.nimblechapps.com/unity/how-to-integrate-photon-pun-multiplayer-game-engine-for-unity#:~:text=Setup%20Photon%20in%20Unity%20Project,-Before%20we%20start&text=You%20can%20find%20PUN%20settings,Networking%20%2D%3E%20Highlight%20server%20settings.&text=It%20will%20open%20a%20setting,Set%20your%20appropriate%20region.)
+
 
 ## Development setup
 
